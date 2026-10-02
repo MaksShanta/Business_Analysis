@@ -1,0 +1,188 @@
+=== ПІДРОЗДІЛ: Travel ===
+    Назва: It's Only the Himalayas
+    Ціна: £45.17
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+------------------------------
+    Назва: Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond
+    Ціна: £49.43
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
+------------------------------
+    Назва: See America: A Celebration of Our National Parks & Treasured Sites
+    Ціна: £48.87
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html
+------------------------------
+    Назва: Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+    Ціна: £36.94
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html
+------------------------------
+    Назва: Under the Tuscan Sun
+    Ціна: £37.33
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html
+------------------------------
+    Назва: A Summer In Europe
+    Ціна: £44.34
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html
+------------------------------
+    Назва: The Great Railway Bazaar
+    Ціна: £30.54
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html
+------------------------------
+    Назва: A Year in Provence (Provence #1)
+    Ціна: £56.88
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html
+------------------------------
+    Назва: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+    Ціна: £23.21
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
+------------------------------
+    Назва: Neither Here nor There: Travels in Europe
+    Ціна: £38.95
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html
+------------------------------
+    Назва: 1,000 Places to See Before You Die
+    Ціна: £26.08
+    Наявність: In stock
+    Рейтинг: Five
+    URL: https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html
+------------------------------
+=== ПІДРОЗДІЛ: Mystery ===
+    Назва: Sharp Objects
+    Ціна: £47.82
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+------------------------------
+    Назва: In a Dark, Dark Wood
+    Ціна: £19.63
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+------------------------------
+    Назва: The Past Never Ends
+    Ціна: £56.50
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+------------------------------
+    Назва: A Murder in Time
+    Ціна: £16.64
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+------------------------------
+    Назва: The Murder of Roger Ackroyd (Hercule Poirot #4)
+    Ціна: £44.10
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+------------------------------
+    Назва: The Last Mile (Amos Decker #2)
+    Ціна: £54.21
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+------------------------------
+    Назва: That Darkness (Gardiner and Renner #1)
+    Ціна: £13.92
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+------------------------------
+    Назва: Tastes Like Fear (DI Marnie Rome #3)
+    Ціна: £10.69
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+------------------------------
+    Назва: A Time of Torment (Charlie Parker #14)
+    Ціна: £48.35
+    Наявність: In stock
+    Рейтинг: Five
+    URL: https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+------------------------------
+    Назва: A Study in Scarlet (Sherlock Holmes #1)
+    Ціна: £16.73
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+------------------------------
+    Назва: Poisonous (Max Revere Novels #3)
+    Ціна: £26.80
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+------------------------------
+    Назва: Murder at the 42nd Street Library (Raymond Ambler #1)
+    Ціна: £54.36
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+------------------------------
+    Назва: Most Wanted
+    Ціна: £35.28
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/most-wanted_623/index.html
+------------------------------
+    Назва: Hide Away (Eve Duncan #20)
+    Ціна: £11.84
+    Наявність: In stock
+    Рейтинг: One
+    URL: https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+------------------------------
+    Назва: Boar Island (Anna Pigeon #19)
+    Ціна: £59.48
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+------------------------------
+    Назва: The Widow
+    Ціна: £27.26
+    Наявність: In stock
+    Рейтинг: Two
+    URL: https://books.toscrape.com/catalogue/the-widow_609/index.html
+------------------------------
+    Назва: Playing with Fire
+    Ціна: £13.71
+    Наявність: In stock
+    Рейтинг: Three
+    URL: https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+------------------------------
+    Назва: What Happened on Beale Street (Secrets of the South Mysteries #2)
+    Ціна: £25.37
+    Наявність: In stock
+    Рейтинг: Five
+    URL: https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+------------------------------
+    Назва: The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+    Ціна: £52.30
+    Наявність: In stock
+    Рейтинг: Five
+    URL: https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+------------------------------
+    Назва: Delivering the Truth (Quaker Midwife Mystery #1)
+    Ціна: £20.89
+    Наявність: In stock
+    Рейтинг: Four
+    URL: https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+------------------------------
